@@ -1,0 +1,6 @@
+module Pods_SegundoParcialWebServices {
+  umbrella header "Pods-SegundoParcialWebServices-umbrella.h"
+
+  export *
+  module * { export * }
+}
